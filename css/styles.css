@@ -81,7 +81,6 @@ table {
 .intro {
   margin-bottom: 10%;
   margin-top: 10%;
-  transform: translate(15%);
   text-align: justify;
 }
 
@@ -91,8 +90,6 @@ a:hover{background-color: #efd1b4ff}
 .intro2 {
   margin-bottom: 10%;
   margin-top: 10%;
-
-  transform: translate(15%);
   text-align: justify;
 }
 .intro3 {
